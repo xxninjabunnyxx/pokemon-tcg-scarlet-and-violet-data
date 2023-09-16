@@ -1,0 +1,70 @@
+---
+id: sv1-173
+name: Energy Switch
+supertype: Trainer
+subtypes:
+- Item
+rules:
+- Move a Basic Energy from 1 of your Pokémon to another of your Pokémon.
+- You may play any number of Item cards during your turn.
+set:
+  id: sv1
+  name: Scarlet & Violet
+  series: Scarlet & Violet
+  printedTotal: 198
+  total: 258
+  legalities:
+    unlimited: Legal
+    standard: Legal
+    expanded: Legal
+  releaseDate: 2023/03/31
+  updatedAt: 2023/03/31 15:45:00
+  images:
+    symbol: https://images.pokemontcg.io/sv1/symbol.png
+    logo: https://images.pokemontcg.io/sv1/logo.png
+number: '173'
+artist: Studio Bora Inc.
+rarity: Common
+legalities:
+  unlimited: Legal
+  standard: Legal
+  expanded: Legal
+regulationMark: G
+images:
+  small: https://images.pokemontcg.io/sv1/173.png
+  large: https://images.pokemontcg.io/sv1/173_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/sv1-173
+  updatedAt: 2023/09/16
+  prices:
+    normal:
+      low: 0.01
+      mid: 0.1
+      high: 1.04
+      market: 0.04
+      directLow: 0.04
+    reverseHolofoil:
+      low: 0.01
+      mid: 0.15
+      high: 2.0
+      market: 0.11
+      directLow: 0.11
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/sv1-173
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 0.05
+    lowPrice: 0.02
+    trendPrice: 0.04
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.1
+    reverseHoloLow: 0.02
+    reverseHoloTrend: 0.1
+    lowPriceExPlus: 0.02
+    avg1: 0.05
+    avg7: 0.04
+    avg30: 0.05
+    reverseHoloAvg1: 0.22
+    reverseHoloAvg7: 0.1
+    reverseHoloAvg30: 0.1

@@ -1,0 +1,94 @@
+---
+id: sv1-11
+name: Skiddo
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '60'
+types:
+- Grass
+attacks:
+- cost:
+  - Grass
+  name: Vine Whip
+  damage: '10'
+  text: ''
+  convertedEnergyCost: 1
+- cost:
+  - Colorless
+  - Colorless
+  name: Smash Kick
+  damage: '20'
+  text: ''
+  convertedEnergyCost: 2
+weaknesses:
+- type: Fire
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: sv1
+  name: Scarlet & Violet
+  series: Scarlet & Violet
+  printedTotal: 198
+  total: 258
+  legalities:
+    unlimited: Legal
+    standard: Legal
+    expanded: Legal
+  releaseDate: 2023/03/31
+  updatedAt: 2023/03/31 15:45:00
+  images:
+    symbol: https://images.pokemontcg.io/sv1/symbol.png
+    logo: https://images.pokemontcg.io/sv1/logo.png
+number: '11'
+artist: Tika Matsuno
+rarity: Common
+flavorText: Until recently, people living in the mountains would ride on the back
+  of these Pokémon to traverse the mountain paths.
+nationalPokedexNumbers:
+- 672
+legalities:
+  unlimited: Legal
+  standard: Legal
+  expanded: Legal
+regulationMark: G
+images:
+  small: https://images.pokemontcg.io/sv1/11.png
+  large: https://images.pokemontcg.io/sv1/11_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/sv1-11
+  updatedAt: 2023/09/16
+  prices:
+    normal:
+      low: 0.01
+      mid: 0.07
+      high: 1.01
+      market: 0.03
+      directLow: 0.02
+    reverseHolofoil:
+      low: 0.01
+      mid: 0.1
+      high: 1.25
+      market: 0.06
+      directLow: 0.04
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/sv1-11
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 0.04
+    lowPrice: 0.02
+    trendPrice: 0.04
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.08
+    reverseHoloLow: 0.02
+    reverseHoloTrend: 0.06
+    lowPriceExPlus: 0.02
+    avg1: 0.02
+    avg7: 0.04
+    avg30: 0.04
+    reverseHoloAvg1: 0.02
+    reverseHoloAvg7: 0.09
+    reverseHoloAvg30: 0.08

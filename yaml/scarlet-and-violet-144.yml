@@ -1,0 +1,97 @@
+---
+id: sv1-144
+name: Chansey
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '110'
+types:
+- Colorless
+attacks:
+- cost:
+  - Colorless
+  - Colorless
+  name: Pound
+  damage: '40'
+  text: ''
+  convertedEnergyCost: 2
+- cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  name: Egg Rolling
+  damage: 60×
+  text: Flip a coin until you get tails. This attack does 60 damage for each heads.
+  convertedEnergyCost: 3
+weaknesses:
+- type: Fighting
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+convertedRetreatCost: 2
+set:
+  id: sv1
+  name: Scarlet & Violet
+  series: Scarlet & Violet
+  printedTotal: 198
+  total: 258
+  legalities:
+    unlimited: Legal
+    standard: Legal
+    expanded: Legal
+  releaseDate: 2023/03/31
+  updatedAt: 2023/03/31 15:45:00
+  images:
+    symbol: https://images.pokemontcg.io/sv1/symbol.png
+    logo: https://images.pokemontcg.io/sv1/logo.png
+number: '144'
+artist: sui
+rarity: Common
+flavorText: It walks carefully to prevent its egg from breaking. However, it is extremely
+  fast at running away.
+nationalPokedexNumbers:
+- 113
+legalities:
+  unlimited: Legal
+  standard: Legal
+  expanded: Legal
+regulationMark: G
+images:
+  small: https://images.pokemontcg.io/sv1/144.png
+  large: https://images.pokemontcg.io/sv1/144_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/sv1-144
+  updatedAt: 2023/09/16
+  prices:
+    normal:
+      low: 0.01
+      mid: 0.1
+      high: 1.0
+      market: 0.04
+      directLow: 0.02
+    reverseHolofoil:
+      low: 0.01
+      mid: 0.13
+      high: 1.25
+      market: 0.08
+      directLow: 0.07
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/sv1-144
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 0.04
+    lowPrice: 0.02
+    trendPrice: 0.05
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.1
+    reverseHoloLow: 0.02
+    reverseHoloTrend: 0.12
+    lowPriceExPlus: 0.02
+    avg1: 0.05
+    avg7: 0.04
+    avg30: 0.04
+    reverseHoloAvg1: 0.1
+    reverseHoloAvg7: 0.12
+    reverseHoloAvg30: 0.1

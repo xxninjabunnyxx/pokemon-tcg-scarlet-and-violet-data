@@ -1,0 +1,102 @@
+---
+id: sv1-139
+name: Forretress
+supertype: Pokémon
+subtypes:
+- Stage 1
+hp: '120'
+types:
+- Metal
+evolvesFrom: Pineco
+attacks:
+- cost:
+  - Metal
+  name: Continuous Spin
+  damage: 50×
+  text: Flip a coin until you get tails. This attack does 50 damage for each heads.
+  convertedEnergyCost: 1
+- cost:
+  - Metal
+  - Colorless
+  - Colorless
+  name: Rolling Shell
+  damage: '90'
+  text: During your opponent's next turn, this Pokémon takes 50 less damage from attacks
+    (after applying Weakness and Resistance).
+  convertedEnergyCost: 3
+weaknesses:
+- type: Fire
+  value: "×2"
+resistances:
+- type: Grass
+  value: "-30"
+retreatCost:
+- Colorless
+- Colorless
+- Colorless
+convertedRetreatCost: 3
+set:
+  id: sv1
+  name: Scarlet & Violet
+  series: Scarlet & Violet
+  printedTotal: 198
+  total: 258
+  legalities:
+    unlimited: Legal
+    standard: Legal
+    expanded: Legal
+  releaseDate: 2023/03/31
+  updatedAt: 2023/03/31 15:45:00
+  images:
+    symbol: https://images.pokemontcg.io/sv1/symbol.png
+    logo: https://images.pokemontcg.io/sv1/logo.png
+number: '139'
+artist: Lee HyunJung
+rarity: Uncommon
+flavorText: Its entire body is shielded by a steel-hard shell. What lurks inside this
+  shell is a total mystery.
+nationalPokedexNumbers:
+- 205
+legalities:
+  unlimited: Legal
+  standard: Legal
+  expanded: Legal
+regulationMark: G
+images:
+  small: https://images.pokemontcg.io/sv1/139.png
+  large: https://images.pokemontcg.io/sv1/139_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/sv1-139
+  updatedAt: 2023/09/16
+  prices:
+    reverseHolofoil:
+      low: 0.03
+      mid: 0.2
+      high: 1.25
+      market: 0.14
+      directLow: 0.12
+    normal:
+      low: 0.01
+      mid: 0.08
+      high: 1.0
+      market: 0.02
+      directLow: 0.02
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/sv1-139
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 0.04
+    lowPrice: 0.02
+    trendPrice: 0.06
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.2
+    reverseHoloLow: 0.02
+    reverseHoloTrend: 0.21
+    lowPriceExPlus: 0.02
+    avg1: 0.05
+    avg7: 0.06
+    avg30: 0.04
+    reverseHoloAvg1: 0.23
+    reverseHoloAvg7: 0.18
+    reverseHoloAvg30: 0.19

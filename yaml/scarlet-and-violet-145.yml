@@ -1,0 +1,96 @@
+---
+id: sv1-145
+name: Blissey
+supertype: Pokémon
+subtypes:
+- Stage 1
+hp: '150'
+types:
+- Colorless
+evolvesFrom: Chansey
+abilities:
+- type: Ability
+  name: Busybody Nurse
+  text: Once during your turn, you may use this Ability. Your Active Pokémon recovers
+    from all Special Conditions.
+attacks:
+- cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  name: Happy Cyclone
+  damage: '150'
+  text: Move all Energy from this Pokémon to 1 of your Benched Pokémon.
+  convertedEnergyCost: 3
+weaknesses:
+- type: Fighting
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+convertedRetreatCost: 2
+set:
+  id: sv1
+  name: Scarlet & Violet
+  series: Scarlet & Violet
+  printedTotal: 198
+  total: 258
+  legalities:
+    unlimited: Legal
+    standard: Legal
+    expanded: Legal
+  releaseDate: 2023/03/31
+  updatedAt: 2023/03/31 15:45:00
+  images:
+    symbol: https://images.pokemontcg.io/sv1/symbol.png
+    logo: https://images.pokemontcg.io/sv1/logo.png
+number: '145'
+artist: chibi
+rarity: Uncommon
+flavorText: The eggs it lays are filled with happiness. Eating even one bite will
+  bring a smile to anyone.
+nationalPokedexNumbers:
+- 242
+legalities:
+  unlimited: Legal
+  standard: Legal
+  expanded: Legal
+regulationMark: G
+images:
+  small: https://images.pokemontcg.io/sv1/145.png
+  large: https://images.pokemontcg.io/sv1/145_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/sv1-145
+  updatedAt: 2023/09/16
+  prices:
+    normal:
+      low: 0.01
+      mid: 0.07
+      high: 1.0
+      market: 0.04
+      directLow: 0.03
+    reverseHolofoil:
+      low: 0.03
+      mid: 0.19
+      high: 1.25
+      market: 0.14
+      directLow: 0.13
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/sv1-145
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 0.04
+    lowPrice: 0.02
+    trendPrice: 0.06
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.19
+    reverseHoloLow: 0.02
+    reverseHoloTrend: 0.21
+    lowPriceExPlus: 0.02
+    avg1: 0.02
+    avg7: 0.08
+    avg30: 0.05
+    reverseHoloAvg1: 0.25
+    reverseHoloAvg7: 0.2
+    reverseHoloAvg30: 0.19
